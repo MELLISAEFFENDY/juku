@@ -896,6 +896,7 @@ end
 
 -- OrionLib Compatibility Layer
 local CompatibilityLayer = {}
+setmetatable(CompatibilityLayer, {__index = Rayfield})
 
 -- Debug: Add some debug info
 print("🔧 Rayfield UI: Setting up OrionLib compatibility layer...")
@@ -942,15 +943,20 @@ for key, value in pairs(CompatibilityLayer) do
     end
 end
 
--- Ensure MakeWindow is definitely available
-if CompatibilityLayer.MakeWindow then
-    print("✅ MakeWindow method is available!")
-else
-    print("❌ MakeWindow method is missing!")
-    -- Force add it if missing
-    CompatibilityLayer.MakeWindow = function(Config)
-        print("🔧 Force-created MakeWindow function")
-        return Rayfield:CreateWindow(Config)
+-- Ensure critical methods are available
+local criticalMethods = {"MakeWindow", "CreateWindow", "Notify"}
+for _, methodName in ipairs(criticalMethods) do
+    if CompatibilityLayer[methodName] then
+        print("✅ " .. methodName .. " method is available!")
+    else
+        print("❌ " .. methodName .. " method is missing!")
+        if methodName == "MakeWindow" then
+            -- Force add it if missing
+            CompatibilityLayer.MakeWindow = function(Config)
+                print("🔧 Force-created MakeWindow function")
+                return Rayfield:CreateWindow(Config)
+            end
+        end
     end
 end
 
