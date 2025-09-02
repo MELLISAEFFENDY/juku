@@ -1,0 +1,93 @@
+================================================================================
+ROSLIT BAY - COMPLETE GPS DATA
+================================================================================
+
+Location: Roslit Bay
+URL: https://fischipedia.org/wiki/Roslit_Bay
+Scraped: 2025-09-02 22:11:28
+Total GPS Points: 22
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 10
+Item Location: 5
+Fish Location: 7
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Roslit Bay
+   GPS: -1450, 135, 750
+
+2. Roslit Bay Area
+   GPS: -1775, 150, 680
+
+3. Roslit Volcano Roslit Volcano is a sublocation inside of Roslit
+   GPS: -1875, 165, 380
+
+4. Roslit Bay Area
+   GPS: 7, 0, -1515
+
+5. Roslit Bay Area
+   GPS: 12, 750, -1515
+
+6. Roslit Bay Area
+   GPS: 14, 0, -1515
+
+7. Roslit Bay Area
+   GPS: 75, 0, -1945
+
+8. Deep PearlNoneNoneNoneNoneNone
+   GPS: -1765, 140, 6001
+
+9. Deep PearlNoneNoneNoneNoneNone
+   GPS: -1800, 140, 6209
+
+10. Tropical Breeze by The Puahia Street Players
+   GPS: -1785, 165, 400
+
+
+ITEM LOCATION:
+-------------
+1. Fortune Rod
+   GPS: -1515, 141, 765
+
+2. Meteor Totem
+   GPS: -1945, 275, 230
+
+3. Glider
+   GPS: -1710, 150, 740
+
+4. Bait Crate
+   GPS: -1465, 130, 680
+
+5. Crab Cage
+   GPS: -1485, 130, 640
+
+
+FISH LOCATION:
+-------------
+1. Perch
+   GPS: -1805, 140, 595
+
+2. Blue Tang
+   GPS: -1465, 125, 525
+
+3. Clownfish
+   GPS: -1520, 125, 520
+
+4. Clam
+   GPS: -2028, 130, 541
+
+5. Angelfish
+   GPS: -1500, 135, 615
+
+6. Arapaima
+   GPS: -1765, 140, 600
+
+7. Suckermouth Catfish
+   GPS: -1800, 140, 620
+
+

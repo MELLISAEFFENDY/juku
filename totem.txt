@@ -1,0 +1,40 @@
+Item Totem
+
+1.Sundial Totem
+-1215, 195, -1040
+
+2.Tempest Totem
+20, 140, 1860
+
+3.Windset Totem
+2845, 180, 2700
+
+4.Smokescreen Totem
+2790, 140, -625
+
+5.Meteor Totem
+-1945, 275, 230
+
+6.Avalanche Totem
+19711, 468, 6059
+
+7.Eclipse Totem
+5940, 265, 900
+
+8.Blizzard Totem
+20148, 743, 5804
+
+9.Aurora Totem
+-1810, -135, -3280
+
+10.Cursed Storm Totem
+760, 2130, 16965
+
+11.Zeus Storm Totem
+-4325, -625, 2685
+
+12.Poseidon Wrath Totem
+-3955, -555, 855
+
+13.Blue Moon Totem
+1300, 155, -550

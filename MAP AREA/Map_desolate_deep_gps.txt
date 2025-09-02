@@ -1,0 +1,94 @@
+================================================================================
+DESOLATE DEEP - COMPLETE GPS DATA
+================================================================================
+
+Location: Desolate Deep
+URL: https://fischipedia.org/wiki/Desolate_Deep
+Scraped: 2025-09-02 22:12:28
+Total GPS Points: 19
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+Item Location: 7
+GPS Point: 8
+Detailed Area: 1
+Fish Location: 3
+
+DETAIL GPS DATA:
+================================================================================
+
+ITEM LOCATION:
+-------------
+1. Advanced Diving Gear
+   GPS: -790, 125, -3100
+
+2. Reinforced Rod
+   GPS: -975, -245, -2700
+
+3. Trident Rod
+   GPS: -1485, -225, -2195
+
+4. Basic Diving Gear
+   GPS: -1655, -210, -2825
+
+5. Tidebreaker
+   GPS: -1645, -210, -2855
+
+6. Conception Conch
+   GPS: -1630, -210, -2860
+
+7. Aurora Totem
+   GPS: -1800, -135, -3280
+
+
+GPS POINT:
+---------
+1. Small Cave
+   GPS: 20, 0, -975
+
+2. Small Cave
+   GPS: 150, 0, -1485
+
+3. Small Cave
+   GPS: 3, 0, -1655
+
+4. Small Cave
+   GPS: 15, 0, -790
+
+5. Small Cave
+   GPS: 9, 0, -975
+
+6. Small Cave
+   GPS: 30, 0, -975
+
+7. l Cave
+   GPS: 80, 0, -1645
+
+8. Hidden cave
+   GPS: 500, 0, -1800
+
+
+DETAILED AREA:
+-------------
+1. Brine Pool
+   GPS: -1710, -235, -3075
+   Description: The Brine Pool 
+ There are two main ways to access the Brine Pool; the first method is the easiest:
+ 
+ Glider & Path
+Exit the water at GPS: -1710, -235, -3075
+Follow the short path up until you reach ...
+
+
+FISH LOCATION:
+-------------
+1. Phantom Ray
+   GPS: -1685, -235, -3090
+
+2. Cockatoo Squid
+   GPS: -1645, -205, -2790
+
+3. Banditfish
+   GPS: -1500, -235, -2855
+
+

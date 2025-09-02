@@ -1,0 +1,105 @@
+================================================================================
+MUSHGROVE SWAMP - COMPLETE GPS DATA
+================================================================================
+
+Location: Mushgrove Swamp
+URL: https://fischipedia.org/wiki/Mushgrove_Swamp
+Scraped: 2025-09-02 22:11:56
+Total GPS Points: 26
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 18
+Item Location: 3
+Fish Location: 5
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Mushgrove Swamp Area
+   GPS: 2425, 130, -670
+
+2. Guard Tower Alligator Marsh The Keepers Secret Location
+   GPS: 2730, 130, -825
+
+3. Mushgrove Swamp Area
+   GPS: 182, 81, 900
+
+4. Mushgrove Swamp Area
+   GPS: 2, 0, 900
+
+5. Mushgrove Swamp Area
+   GPS: 137, 61, 650
+
+6. Mushgrove Swamp Area
+   GPS: 667, 300, 150
+
+7. Mushgrove Swamp Area
+   GPS: 271, 121, 950
+
+8. Mushgrove Swamp Area
+   GPS: 3, 257, 1
+
+9. Greedy
+   GPS: 1, 100, 866
+
+10. Mushgrove Swamp Area
+   GPS: 64, 28, 800
+
+11. Mushgrove Swamp Area
+   GPS: 625, 281, 250
+
+12. Mushgrove Swamp Area
+   GPS: 48, 21, 600
+
+13. Mushgrove Swamp Area
+   GPS: 239, 107, 550
+
+14. Mushgrove Swamp Area
+   GPS: 96, 43, 200
+
+15. Mushgrove Swamp Area
+   GPS: 1, 72, 482
+
+16. the island
+   GPS: 2, 0, 2790
+
+17. BowfinRainNightSpring
+   GPS: 2520, 125, -8157
+
+18. CatfishFoggyNightAutumn
+   GPS: 2670, 130, -7102
+
+
+ITEM LOCATION:
+-------------
+1. Table 3 Row 2
+   GPS: 2520, 160, -895
+
+2. Smokescreen Totem
+   GPS: 2790, 140, -625
+
+3. Crab Cage
+   GPS: 2520, 135, -895
+
+
+FISH LOCATION:
+-------------
+1. White Perch
+   GPS: 2475, 125, -675
+
+2. Grey Carp
+   GPS: 2665, 125, -815
+
+3. Bowfin
+   GPS: 2445, 125, -795
+
+4. Marsh Gar
+   GPS: 2520, 125, -815
+
+5. Alligator
+   GPS: 2670, 130, -710
+
+

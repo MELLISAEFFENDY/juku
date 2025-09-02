@@ -1,0 +1,57 @@
+================================================================================
+FORSAKEN SHORES - COMPLETE GPS DATA
+================================================================================
+
+Location: Forsaken Shores
+URL: https://fischipedia.org/wiki/Forsaken_Shores
+Scraped: 2025-09-02 22:12:21
+Total GPS Points: 10
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 3
+Item Location: 3
+Fish Location: 4
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Forsaken Shore
+   GPS: -2425, 135, 1555
+
+2. Forsaken Shore
+   GPS: -3600, 125, 1605
+
+3. Forsaken Shores Area
+   GPS: 40, 0, -2830
+
+
+ITEM LOCATION:
+-------------
+1. Scurvy Rod
+   GPS: -2830, 215, 1510
+
+2. Bait Crate
+   GPS: -2490, 130, 1535
+
+3. Crab Cage
+   GPS: -2525, 135, -1575
+
+
+FISH LOCATION:
+-------------
+1. Scurvy Sailfish
+   GPS: -2430, 130, 1450
+
+2. Cutlass Fish
+   GPS: -2645, 130, 1410
+
+3. Shipwreck Barracuda
+   GPS: -3597, 140, 1604
+
+4. Golden Seahorse
+   GPS: -3100, 127, 1450
+
+

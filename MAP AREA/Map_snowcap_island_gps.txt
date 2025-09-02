@@ -1,0 +1,70 @@
+================================================================================
+SNOWCAP ISLAND - COMPLETE GPS DATA
+================================================================================
+
+Location: Snowcap Island
+URL: https://fischipedia.org/wiki/Snowcap_Island
+Scraped: 2025-09-02 22:12:07
+Total GPS Points: 13
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 4
+Detailed Area: 1
+Item Location: 1
+Fish Location: 7
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Snowcap Island
+   GPS: 2600, 150, 2400
+
+2. Snowcap Island
+   GPS: 2710, 190, 2560
+
+3. this cave
+   GPS: 2750, 135, 2505
+
+4. Snowcap Island Area
+   GPS: 2800, 280, 2565
+
+
+DETAILED AREA:
+-------------
+1. Snowcap Cave
+   GPS: 2900, 150, 2500
+
+
+ITEM LOCATION:
+-------------
+1. Windset Totem
+   GPS: 2845, 180, 2700
+
+
+FISH LOCATION:
+-------------
+1. Pollock
+   GPS: 2550, 135, 2385
+
+2. Bluegill
+   GPS: 3070, 130, 2600
+
+3. Herring
+   GPS: 2595, 140, 2500
+
+4. Red Drum
+   GPS: 2310, 135, 2545
+
+5. Arctic Char
+   GPS: 2350, 130, 2230
+
+6. Lingcod
+   GPS: 2820, 125, 2805
+
+7. Glacierfish
+   GPS: 2860, 135, 2620
+
+

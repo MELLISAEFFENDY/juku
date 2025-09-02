@@ -1,0 +1,87 @@
+================================================================================
+ANCIENT ISLE - COMPLETE GPS DATA
+================================================================================
+
+Location: Ancient Isle
+URL: https://fischipedia.org/wiki/Ancient_Isle
+Scraped: 2025-09-02 22:12:38
+Total GPS Points: 20
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 10
+Item Location: 3
+Fish Location: 7
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. large island
+   GPS: 5833, 125, 401
+
+2. Fragment Puzzle The chamber for the Fragment Puzzle
+   GPS: 5870, 160, 415
+
+3. Small Cave
+   GPS: 3, 0, 5487
+
+4. Small Cave
+   GPS: 50, 0, 5966
+
+5. Small Cave
+   GPS: 250, 0, 5966
+
+6. Small Cave
+   GPS: 1, 35, 6075
+
+7. NightNoneNone
+   GPS: 6000, 230, 591
+
+8. None
+   GPS: 6010, 190, 331
+
+9. NoneNoneSpring
+   GPS: 5504, 143, -3212
+
+10. DayNoneWormNone
+   GPS: 5833, 125, 4010
+
+
+ITEM LOCATION:
+-------------
+1. Stone Rod
+   GPS: 5487, 143, -316
+
+2. Eclipse Totem
+   GPS: 5966, 274, 846
+
+3. Bait Crate
+   GPS: 6075, 195, 260
+
+
+FISH LOCATION:
+-------------
+1. Anomalocaris
+   GPS: 5504, 143, -321
+
+2. Cobia
+   GPS: 5983, 125, 1007
+
+3. Hallucigenia
+   GPS: 6015, 190, 339
+
+4. Leedsichthys
+   GPS: 6052, 394, 648
+
+5. Deep Sea Fragment
+   GPS: 5841, 81, 388
+
+6. Solar Fragment
+   GPS: 6073, 443, 684
+
+7. Earth Fragment
+   GPS: 5972, 274, 845
+
+

@@ -1,0 +1,76 @@
+================================================================================
+SUNSTONE ISLAND - COMPLETE GPS DATA
+================================================================================
+
+Location: Sunstone Island
+URL: https://fischipedia.org/wiki/Sunstone_Island
+Scraped: 2025-09-02 22:12:14
+Total GPS Points: 15
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 3
+Detailed Area: 1
+Item Location: 3
+Fish Location: 8
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Sunstone Island
+   GPS: -935, 130, -1105
+
+2. Sunstone Cave
+   GPS: -1215, 190, -1040
+
+3. Sunstone Cave
+   GPS: 2, 0, -1145
+
+
+DETAILED AREA:
+-------------
+1. Upper Sunstone
+   GPS: -1045, 135, -1140
+
+
+ITEM LOCATION:
+-------------
+1. Sundial Totem
+   GPS: -1145, 135, -1075
+
+2. Bait Crate
+   GPS: -1045, 200, -1100
+
+3. Crab Cage
+   GPS: -920, 130, -1105
+
+
+FISH LOCATION:
+-------------
+1. Sweetfish
+   GPS: -940, 130, -1105
+
+2. Glassfish
+   GPS: -905, 130, -1000
+
+3. Longtail Bass
+   GPS: -860, 135, -1205
+
+4. Red Tang
+   GPS: -1195, 123, -1220
+
+5. Chinfish
+   GPS: -625, 130, -950
+
+6. Trumpetfish
+   GPS: -790, 125, -1340
+
+7. Mahi Mahi
+   GPS: -730, 130, -1350
+
+8. Sunfish
+   GPS: -975, 125, -1430
+
+

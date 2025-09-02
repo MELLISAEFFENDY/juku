@@ -1,0 +1,82 @@
+================================================================================
+TERRAPIN ISLAND - COMPLETE GPS DATA
+================================================================================
+
+Location: Terrapin Island
+URL: https://fischipedia.org/wiki/Terrapin_Island
+Scraped: 2025-09-02 22:11:06
+Total GPS Points: 17
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 5
+Detailed Area: 3
+Item Location: 3
+Fish Location: 6
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Terrapin Island
+   GPS: -200, 130, 1925
+
+2. Terrapin Hideaway
+   GPS: 160, 125, 1970
+
+3. Terrapin Island Area
+   GPS: 15, 0, -200
+
+4. Terrapin Cave
+   GPS: 8, 0, -175
+
+5. Terrapin Cave
+   GPS: 2, 0, 35
+
+
+DETAILED AREA:
+-------------
+1. Terrapin Hideaway
+   GPS: 10, 155, 2000
+
+2. Terrapin Cave
+   GPS: 25, 140, 1860
+
+3. Dreamers Crypt
+   GPS: 140, 150, 2050
+
+
+ITEM LOCATION:
+-------------
+1. Magnet Rod
+   GPS: -200, 130, 1930
+
+2. Quality Bait Crate
+   GPS: -175, 145, 1935
+
+3. Tempest Totem
+   GPS: 35, 130, 1945
+
+
+FISH LOCATION:
+-------------
+1. Walleye
+   GPS: -225, 125, 2150
+
+2. White Bass
+   GPS: -50, 130, 2025
+
+3. Redeye Bass
+   GPS: -35, 125, 2285
+
+4. Chinook Salmon
+   GPS: -305, 125, 1625
+
+5. Golden Smallmouth Bass
+   GPS: 65, 135, 2140
+
+6. Olm
+   GPS: 95, 125, 1980
+
+

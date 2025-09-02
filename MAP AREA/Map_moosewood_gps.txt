@@ -1,0 +1,133 @@
+================================================================================
+MOOSEWOOD - COMPLETE GPS DATA
+================================================================================
+
+Location: Moosewood
+URL: https://fischipedia.org/wiki/Moosewood
+Scraped: 2025-09-02 22:11:16
+Total GPS Points: 34
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+GPS Point: 20
+Detailed Area: 1
+Item Location: 6
+Fish Location: 7
+
+DETAIL GPS DATA:
+================================================================================
+
+GPS POINT:
+---------
+1. Moosewood Area
+   GPS: 350, 135, 250
+
+2. Moosewood Area
+   GPS: 100, 515, 150
+
+3. Moosewood Area
+   GPS: 385, 135, 280
+
+4. Moosewood Area
+   GPS: 480, 150, 295
+
+5. Moosewood Area
+   GPS: 0, 465, 150
+
+6. Moosewood Area
+   GPS: 300, 465, 150
+
+7. Moosewood Area
+   GPS: 900, 465, 150
+
+8. Moosewood Area
+   GPS: 2, 0, 465
+
+9. Moosewood Area
+   GPS: 4, 500, 465
+
+10. Moosewood Area
+   GPS: 5, 250, 465
+
+11. Moosewood Area
+   GPS: 4, 500, 480
+
+12. Moosewood Area
+   GPS: 8, 0, 365
+
+13. Moosewood Area
+   GPS: 3, 0, 370
+
+14. Moosewood Area
+   GPS: 120, 315, 135
+
+15. Moosewood Area
+   GPS: 45, 465, 150
+
+16. Island
+   GPS: 705, 137, 341
+
+17. Island
+   GPS: 230, 139, 39
+
+18. The crate can be found at Roslit Bay
+   GPS: -1878, 167, 548
+
+19. Roslit Bay
+   GPS: 15, 30, 0
+
+20. None
+   GPS: 705, 136, 3400
+
+
+DETAILED AREA:
+-------------
+1. Message In a Bottle
+   GPS: 412, 135, 233
+
+
+ITEM LOCATION:
+-------------
+1. Training Rod
+   GPS: 465, 150, 235
+
+2. Long Rod
+   GPS: 480, 180, 150
+
+3. Table 1 Row 9
+   GPS: 515, 150, 285
+
+4. Fish Radar
+   GPS: 365, 135, 275
+
+5. Basic Diving Gear
+   GPS: 370, 135, 250
+
+6. Bait Crate
+   GPS: 315, 135, 335
+
+
+FISH LOCATION:
+-------------
+1. Trout
+   GPS: 390, 132, 345
+
+2. Anchovy
+   GPS: 130, 135, 630
+
+3. Yellowfin Tuna
+   GPS: 705, 136, 340
+
+4. Carp
+   GPS: 560, 145, 600
+
+5. Goldfish
+   GPS: 525, 145, 310
+
+6. Flounder
+   GPS: 285, 133, 215
+
+7. Pike
+   GPS: 540, 145, 330
+
+

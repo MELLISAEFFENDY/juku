@@ -1,0 +1,123 @@
+================================================================================
+ATLANTIS - COMPLETE GPS DATA
+================================================================================
+
+Location: Atlantis
+URL: https://fischipedia.org/wiki/Atlantis
+Scraped: 2025-09-02 22:12:46
+Total GPS Points: 32
+
+SUMMARY BY TYPE:
+--------------------------------------------------
+Detailed Area: 1
+GPS Point: 16
+Item Location: 15
+
+DETAIL GPS DATA:
+================================================================================
+
+DETAILED AREA:
+-------------
+1. Heart of Zeus
+   GPS: -2522, 138, 1593
+
+
+GPS POINT:
+---------
+1. the cave
+   GPS: -2551, 150, 1667
+
+2. the cave
+   GPS: -2729, 168, 1730
+
+3. the cave
+   GPS: -2881, 317, 1607
+
+4. the cave
+   GPS: -2835, 131, 1510
+
+5. Grand Reef
+   GPS: -3576, 148, 524
+
+6. Code Panel near the entrance
+   GPS: 1, 850, 0
+
+7. When complete
+   GPS: 1, 0, 0
+
+8. When all fish are inputted
+   GPS: 1, 555, 555
+
+9. Fishing Area Location
+   GPS: 1, 500, 0
+
+10. Zeus
+   GPS: 2, 700, 0
+
+11. Fishing Area Location
+   GPS: 1, 333, 333
+
+12. Atlantis Area
+   GPS: 40, 0, -4465
+
+13. Atlantis Area
+   GPS: 80, 0, -4277
+
+14. Atlantis Area
+   GPS: 9, 0, -4462
+
+15. Atlantis Area
+   GPS: 30, 0, -4463
+
+16. Atlantis Area
+   GPS: 15, 0, -4452
+
+
+ITEM LOCATION:
+-------------
+1. Depthseeker Rod
+   GPS: -4465, -604, 1874
+
+2. Champions Rod
+   GPS: -4277, -606, 1838
+
+3. Tempest Rod
+   GPS: -4928, -595, 1857
+
+4. Abyssal Specter Rod
+   GPS: -3804, -567, 1870
+
+5. Poseidon Rod
+   GPS: -4086, -559, 895
+
+6. Zeus Rod
+   GPS: -4272, -629, 2665
+
+7. Kraken Rod
+   GPS: -4415, -997, 2055
+
+8. Poseidon Wrath Totem
+   GPS: -3953, -556, 853
+
+9. Zeus Storm Totem
+   GPS: -4325, -630, 2687
+
+10. Quality Bait Crate
+   GPS: -177, 144, 1933
+
+11. Flippers
+   GPS: -4462, -605, 1875
+
+12. Super Flippers
+   GPS: -4463, -603, 1876
+
+13. Advanced Diving Gear
+   GPS: -4452, -603, 1877
+
+14. Conception Conch
+   GPS: -4450, -605, 1874
+
+15. Crab Cage
+   GPS: -4446, -605, 1866
+
+
